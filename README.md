@@ -25,7 +25,7 @@ Tool is based on: Python3, Curl and Grep. You should probably have them in the P
 # Recommendations
 
 For Antivirus scanning on Linux you can use ClamAV (or any other available).
-Be sure that you not what are you doing if you proceed with further investigation, use proper Sandbox via Virtual Machine.
+Be sure that you know what are you doing if you proceed with further investigation, use proper Sandbox via Virtual Machine.
 For reversing obsfucated javascript you can use tools like: https://github.com/lelinhtinh/de4js.
 
 # TODO
