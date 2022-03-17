@@ -38,8 +38,6 @@ There is a lot that can be improved, for the start:
 * Optimize code
 * Add external interfaces/detections
 
-_Details can be found via Twitter tags #Bezbednost #Malware_
-
 # POC
 
 This script (with help of ClamAV and little bit of HTML source investigation) already detected more then 20 compromised websites in less than of 24 hours of running.
@@ -51,6 +49,8 @@ Some examples are:
 * Defaced web site
 * Possible Crypto Minner traces
 * Private Information Leak
+
+_Details can be found via Twitter tags #Bezbednost #Malware_
 
 # Testing
 
