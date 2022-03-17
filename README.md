@@ -14,7 +14,7 @@ Discover "co.rs" domains, with minimum length 2 and maximum length 6, try 10k co
 
 Discover domains from keyword list and append ".rs":
 
-**# python3 ./lovac.py --list LIST_KEYWORDS_OR_DOMAINS.txt --appendtld --tld "rs"
+**# python3 ./lovac.py --list LIST_KEYWORDS_OR_DOMAINS.txt --appendtld --tld "rs"**
 
 _For all options run: python3 ./lovac.py -h_
 
