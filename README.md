@@ -46,6 +46,7 @@ Some examples are:
 * IFRAME with malicious link
 * Javascript redirection to the Malware
 * Javascript hide malicious advertising
+* Defaced web site
 
 # Testing
 
