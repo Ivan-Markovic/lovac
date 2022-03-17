@@ -47,6 +47,8 @@ Some examples are:
 * Javascript redirection to the Malware
 * Javascript hide malicious advertising
 * Defaced web site
+* Possible Crypto Minner traces
+* Private Information Leak
 
 # Testing
 
