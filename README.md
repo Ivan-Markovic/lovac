@@ -51,7 +51,7 @@ Some examples are:
 * Private Information Leak
 * Misconfigured DNS
 
-_Details can be found via Twitter tags #Bezbednost #Malware_
+_Details can be found via Twitter tags #Bezbednost #Malware_ and in summary presentation: https://github.com/Ivan-Markovic/lovac/blob/main/How_To_Hunt_Malware_and_Others_with_Lovac.pdf 
 
 # Testing
 
