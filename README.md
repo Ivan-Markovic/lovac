@@ -49,6 +49,7 @@ Some examples are:
 * Defaced web site
 * Possible Crypto Minner traces
 * Private Information Leak
+* Misconfigured DNS
 
 _Details can be found via Twitter tags #Bezbednost #Malware_
 
